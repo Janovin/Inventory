@@ -21,6 +21,14 @@ Download the 'inventory.py' and 'inventory.txt' files found in the master branch
 Store these files in the same directory.
 
 ## Usage
+The image below depicts the contents of the inventory.txt
+![alt text](https://github.com/Janovin/Inventory/blob/master/textfile.png?raw=true)
+
+Open 'inventory.py' using Python or an IDE.
+Below is what it should look like.
+![alt text](https://github.com/Janovin/Inventory/blob/master/Inventory.png?raw=true)
+Follow the prompts on screen to use the program.
+
 ## Credits
 Python program - Janovin Scholtz
 Text file - HyperionDev
